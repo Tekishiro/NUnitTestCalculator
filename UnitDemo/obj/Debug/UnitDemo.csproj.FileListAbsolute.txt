@@ -1,0 +1,13 @@
+E:\Мои файлы\Учеба\7 семестр\Тестирование\UnitDemo\UnitDemo\bin\Debug\UnitDemo.dll
+E:\Мои файлы\Учеба\7 семестр\Тестирование\UnitDemo\UnitDemo\bin\Debug\UnitDemo.pdb
+E:\Мои файлы\Учеба\7 семестр\Тестирование\UnitDemo\UnitDemo\bin\Debug\nunit.framework.dll
+E:\Мои файлы\Учеба\7 семестр\Тестирование\UnitDemo\UnitDemo\bin\Debug\nunit.framework.xml
+E:\Мои файлы\Учеба\7 семестр\Тестирование\UnitDemo\UnitDemo\obj\Debug\UnitDemo.csprojResolveAssemblyReference.cache
+E:\Мои файлы\Учеба\7 семестр\Тестирование\UnitDemo\UnitDemo\obj\Debug\UnitDemo.dll
+E:\Мои файлы\Учеба\7 семестр\Тестирование\UnitDemo\UnitDemo\obj\Debug\UnitDemo.pdb
+E:\DotNet\UnitDemo\UnitDemo\bin\Debug\UnitDemo.dll
+E:\DotNet\UnitDemo\UnitDemo\bin\Debug\UnitDemo.pdb
+E:\DotNet\UnitDemo\UnitDemo\bin\Debug\nunit.framework.dll
+E:\DotNet\UnitDemo\UnitDemo\bin\Debug\nunit.framework.xml
+E:\DotNet\UnitDemo\UnitDemo\obj\Debug\UnitDemo.dll
+E:\DotNet\UnitDemo\UnitDemo\obj\Debug\UnitDemo.pdb
